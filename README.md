@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+M7MD3MR)](https://git.io/typing-svg)
 <!--
 **M7MD3MR/M7MD3MR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
